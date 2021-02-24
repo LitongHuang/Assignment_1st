@@ -27,7 +27,7 @@ rosnode list
 
 rosnode info /[node_name]
 rosnode info /assignment1
-rosnode info /random
+rosnode info /random_server
 ```
 
 Next, the simulator can be launched by executing the command:
@@ -40,7 +40,7 @@ Use `rosrun` to run a node directly:
 ```
 rosrun [package_name] [node_name]
 rosrun assignment1 assignment1
-rosrun my_srv_ random
+rosrun my_srv_ random_server
 ```
 
 

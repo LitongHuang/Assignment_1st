@@ -71,8 +71,7 @@
   <exec_depend>std_msgs</exec_depend>
   <exec_depend>turtlesim</exec_depend>
   <exec_depend>nav_msgs</exec_depend>
-  <exec_depend>message_generation</exec_depend>
-  <exec_depend>my_srv_</exec_depend>
+
 
 
   <!-- The export tag contains other, unspecified, tags -->
